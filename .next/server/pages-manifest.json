@@ -1,0 +1,10 @@
+{
+  "/api/radio-cover": "pages/api/radio-cover.js",
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/dashboard": "pages/dashboard.js",
+  "/genre/[genre]": "pages/genre/[genre].js",
+  "/artist/[artistId]": "pages/artist/[artistId].js",
+  "/search": "pages/search.js"
+}
